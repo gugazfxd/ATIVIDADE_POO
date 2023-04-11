@@ -1,0 +1,6 @@
+Exigências da atividade
+
+1) Desenvolva uma calculadora em Java, no qual o usuário deve digitar o valor de um númerodo qual ele deseja submeter o cálculo e que possa escolher qual das operações básicas damatemática a calculadora deve realizar os cálculos. A calculadora também deve ter a opçãode realizar todas as operações básicas, bem como realizar cálculos de potenciação e raizcúbica e quadrada.
+2) Crie um conversor de temperaturas em Java, no qual o usuário digita um valor e a escalada temperatura do valor digitado. Após, o programa deve imprimir a temperatura digitada nasescalas: Celsius, Fahrenheit, Kelvin.
+3) Escreva um programa que receba o nome e sobrenome do usuário, verifique se osobrenome é “Wayne”, e imprima na tela “Acesso liberado, Sr. Wayne”. Caso o sobrenomeseja “Kent” o programa deve imprimir a mensagem “Saí daí, mané!”. Se o nome for Diana, eledeve imprimir a mensagem “Bem-vinda, Princesa de Themyscara”. Por fim, se nem um nomeou sobrenome se encaixar nas hipóteses anteriores, o programa deve imprimir “Cai fora!”.
+4) Escreva um programa que receba um número digitado pelo usuário. Se o número for par,ele deve exibir na tela o cálculo da raiz cúbica. Se o número for ímpar, ele deve exibir na telao cálculo da raiz quadrada.
